@@ -239,7 +239,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - haoeixc
 
 env:
   TZ: America/New_York
